@@ -12,7 +12,7 @@
       
   __[info](https://rentry.co/thehuntingcats)__ + __[xtra](https://eternaldamnation.straw.page/)__
   <h5 align="center">
-    ${\textsf{\color{#cc3741}hello,}}$ ${\textsf{\color{#e04356}welcome}}$ ${\textsf{\color{#eb5466}to}}$ ${\textsf{\color{#cc3741}my}}$ ${\textsf{\color{#e04356}straw}}$ ${\textsf{\color{#eb5466}page!}}$
+    ${\textsf{\color{#cc3741}hello,}}$ ${\textsf{\color{#e04356}welcome}}$ ${\textsf{\color{#eb5466}to}}$ ${\textsf{\color{#cc3741}my}}$ ${\textsf{\color{#e04356}git}}$ ${\textsf{\color{#eb5466}hub!}}$
 
 <h5 align="center">
   <img src="https://files.catbox.moe/3ss7oi.png" width="300" />
